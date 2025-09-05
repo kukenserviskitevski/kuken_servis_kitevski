@@ -17,10 +17,9 @@ a {
 
 /* Хедер */
 .main-header {
-    background: url("/images/house.png") no-repeat center center;
     background:
         linear-gradient(rgba(118, 85, 50, 0.5), rgba(99, 63, 19, 0.5)),
-        url("/images/house.png") no-repeat center center;
+        url("../images/house.png") no-repeat center center;
     background-size: cover;
     color: #fff;
     padding: 4rem 2rem;
@@ -175,4 +174,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1rem;
+
 }
